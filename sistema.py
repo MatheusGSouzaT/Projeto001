@@ -2,6 +2,8 @@ import customtkinter
 from tkinter import ttk
 import sqlite3
 
+algo
+
 def abrir_frame02():
     frame03.grid_forget()
     frame04.grid_forget()
